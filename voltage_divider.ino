@@ -1,6 +1,5 @@
 #include <SoftwareSerial.h>
 
-
 void setup()
 {
   pinMode(A5, INPUT);
