@@ -1,5 +1,5 @@
 {
     "sketch": "voltage_divider.ino",
     "board": "arduino:avr:uno",
-    "port": "/dev/tty.usbmodemFA1401"
+    "port": "/dev/tty.usbmodemFD1301"
 }
